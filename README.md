@@ -8,6 +8,7 @@ This
 
 #### Week I
 ##### User Interface (Matt)
+1. Today I learned about this, and then I did that on top of doing that other thing. (01/13 @ 4:30PM) ~example~
 ##### Mobile App Flutter (Aakriti)
 ##### Machine Learning Model (Michael + Jari)
 
