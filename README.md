@@ -13,11 +13,12 @@ This
 ##### Machine Learning Model (Michael + Jari)
 1. Followed Notebook on Kaggle on how to make model for Sign Language based on the pictures
  - Created train, validation and test set
- - Trained the model (Have to understand that process more deeply)
+ - Trained the model
  - Achieved 99.08% accuracy on the test set
  - Visualized confusion matrix
 
 Next Steps: How can we save and export the model? How can we make it a Lite Model to use it on mobile?
+Problems: Tutorials show different formats of the dataset. Need to understand more deeply to adjust code if we run into problems
 
 #### Week II
 
