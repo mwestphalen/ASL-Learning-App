@@ -11,6 +11,13 @@ This
 1. Today I learned about this, and then I did that on top of doing that other thing. (01/13 @ 4:30PM) ~example~
 ##### Mobile App Flutter (Aakriti)
 ##### Machine Learning Model (Michael + Jari)
+1. Followed Notebook on Kaggle on how to make model for Sign Language based on the pictures
+ - Created train, validation and test set
+ - Trained the model (Have to understand that process more deeply)
+ - Achieved 99.08% accuracy on the test set
+ - Visualized confusion matrix
+
+Next Steps: How can we save and export the model? How can we make it a Lite Model to use it on mobile?
 
 #### Week II
 
