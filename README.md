@@ -6,7 +6,10 @@ This
 
 ### Sprint I (01/23-02/08)
 
-#### Week I 
+#### Week I
+##### User Interface (Matt)
+##### Mobile App Flutter (Aakriti)
+##### Machine Learning Model (Michael + Jari)
 
 #### Week II
 
