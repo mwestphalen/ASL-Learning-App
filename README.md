@@ -2,7 +2,7 @@
 
 ## Research Notebook
 
-This 
+The journal is our team's log of what happened. It records each team member's progress for the day: what we did, what problems were encountered and solved, any interesting things we observed. It's also a place to reflect our own process and explore issues such as what's going well, what isn't, and how we can improve.
 
 ### Sprint I (01/23-02/08)
 
