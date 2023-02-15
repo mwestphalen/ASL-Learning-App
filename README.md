@@ -20,6 +20,8 @@ This
 Next Steps: How can we save and export the model? How can we make it a Lite Model to use it on mobile?
 Problems: Tutorials show different formats of the dataset. Need to understand more deeply to adjust code if we run into problems
 
+2. Converted normal model to lite model using the standard converter provided by TensorFlow. Downloaded lite model.
+
 #### Week II
 
 ### Sprint II (02/08-03/01)
