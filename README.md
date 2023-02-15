@@ -23,6 +23,7 @@ Next Steps: How can we save and export the model? How can we make it a Lite Mode
 Problems: Tutorials show different formats of the dataset. Need to understand more deeply to adjust code if we run into problems
 
 2. Converted normal model to lite model using the standard converter provided by TensorFlow. Downloaded lite model.
+Next: Use firebase to deploy lite model or upload lite model into flutter app before production already?
 
 #### Week II
 
