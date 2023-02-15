@@ -8,7 +8,9 @@ This
 
 #### Week I
 ##### User Interface (Matt)
-1. Today I learned about this, and then I did that on top of doing that other thing. (01/13 @ 4:30PM) ~example~
+
+(Matt) - Researched user flow/UI/UX of similar applications to get an idea of what works and what doesn't. I also started on the activity/user flow diagram for the mobile application. No issues/problems encountered. - 02/13
+
 ##### Mobile App Flutter (Aakriti)
 ##### Machine Learning Model (Michael + Jari)
 1. Followed Notebook on Kaggle on how to make model for Sign Language based on the pictures
