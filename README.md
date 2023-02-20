@@ -29,7 +29,7 @@ Problems: Tutorials show different formats of the dataset. Need to understand mo
 2. Converted normal model to lite model using the standard converter provided by TensorFlow. Downloaded lite model.
 Next: Use firebase to deploy lite model or upload lite model into flutter app before production already?
 
-#### Week II
+#### Week II (02/16-02/22)
 
 ##### User Interface (Matt)
 (Matt) - Finished the activity/user flow diagram. I also started on the UX/UI prototype using Adobe XD, no issues there yet and should be done in the next few days. - 02/18
