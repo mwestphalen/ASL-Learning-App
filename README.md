@@ -5,13 +5,13 @@
 The journal is our team's log of what happened. It records each team member's progress for the day: what we did, what problems were encountered and solved, any interesting things we observed. It's also a place to reflect our own process and explore issues such as what's going well, what isn't, and how we can improve.
 
 ### Sprint I (01/23-02/08)
+
 ### Sprint II (02/08-03/01)
+
 #### Week I (02/08-02/15)
+
 ##### User Interface (Matt)
-
 (Matt) - Researched user flow/UI/UX of similar applications to get an idea of what works and what doesn't. I also started on the activity/user flow diagram for the mobile application. No issues/problems encountered. - 02/13
-
-(Matt) - Finished the activity/user flow diagram. I also started on the UX/UI prototype using Adobe XD, no issues there yet and should be done in the next few days. - 02/18
 
 ##### Mobile App Flutter (Aakriti)
 1. Downloaded and created hello world app on Android Studio. Working on it now for VSC. 02/15
@@ -30,7 +30,9 @@ Problems: Tutorials show different formats of the dataset. Need to understand mo
 Next: Use firebase to deploy lite model or upload lite model into flutter app before production already?
 
 #### Week II
+
 ##### User Interface (Matt)
+(Matt) - Finished the activity/user flow diagram. I also started on the UX/UI prototype using Adobe XD, no issues there yet and should be done in the next few days. - 02/18
 
 ##### Mobile App Flutter (Aakriti)
 Research:
