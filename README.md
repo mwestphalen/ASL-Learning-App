@@ -14,6 +14,16 @@ The journal is our team's log of what happened. It records each team member's pr
 (Matt) - Finished the activity/user flow diagram. I also started on the UX/UI prototype using Adobe XD, no issues there yet and should be done in the next few days. - 02/18
 
 ##### Mobile App Flutter (Aakriti)
+1. Downloaded and created hello world app on Android Studio. Working on it now for VSC. 02/17
+
+Research:
+1. Analyzing the intelligibility of real-time mobile sign language video transmitted below recommended standards: https://dl.acm.org/doi/10.1145/2661334.2661358
+2. Designing SmartSignPlay: An Interactive and Intelligent American Sign Language App for Children who are Deaf or Hard of Hearing and their Families: https://dl.acm.org/doi/10.1145/2876456.2879483
+3. Urgent mobile tool for hearing impaired, language dysfunction and foreigners at emergency situation: https://dl.acm.org/doi/10.1145/2628363.2633568
+4. Using mobile devices to support communication between emergency medical responders and deaf people: https://dl.acm.org/doi/10.1145/1851600.1851605
+5. A Personalizable Mobile Sound Detector App Design for Deaf and Hard-of-Hearing Users: https://dl.acm.org/doi/10.1145/2982142.2982171
+6. Accessible System and Social Media Mobile Application for Deaf Users: ASM4Deaf: https://dl.acm.org/doi/10.1145/3524458.3547234
+
 ##### Machine Learning Model (Michael + Jari)
 1. Followed Notebook on Kaggle on how to make model for Sign Language based on the pictures
  - Created train, validation and test set
