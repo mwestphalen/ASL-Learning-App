@@ -29,6 +29,10 @@ Problems: Tutorials show different formats of the dataset. Need to understand mo
 2. Converted normal model to lite model using the standard converter provided by TensorFlow. Downloaded lite model.
 Next: Use firebase to deploy lite model or upload lite model into flutter app before production already?
 
+3. Uploaded model on firebase. It is published and ready to be used. 
+
+4. Downloaded flutter. Added firebase to it after going through many errors. Unable to add model plugin due to unmatching dependencies. Flutter seems very complicated for installation and set up. Might have to think about switching to React Native and Expo if other team members have the same errors. Additionally, might go away from Firebase, but instead load model into app locally. Disadvantage: Increases app size; Advantage: Simpler and more tutorials out there to follow
+
 #### Week II (02/16-02/22)
 
 ##### User Interface (Matt)
