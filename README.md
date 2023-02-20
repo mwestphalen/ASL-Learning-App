@@ -11,6 +11,8 @@ The journal is our team's log of what happened. It records each team member's pr
 
 (Matt) - Researched user flow/UI/UX of similar applications to get an idea of what works and what doesn't. I also started on the activity/user flow diagram for the mobile application. No issues/problems encountered. - 02/13
 
+(Matt) - Finished the activity/user flow diagram. I also started on the UX/UI prototype using Adobe XD, no issues there yet and should be done in the next few days. - 02/18
+
 ##### Mobile App Flutter (Aakriti)
 ##### Machine Learning Model (Michael + Jari)
 1. Followed Notebook on Kaggle on how to make model for Sign Language based on the pictures
