@@ -4,9 +4,9 @@
 3. Download model on to device using Firebase: https://firebase.google.com/docs/ml/flutter/use-custom-models
 
 ### For MacOS with M1:
-- STEP 1: Install ffi
+- STEP 1: Install ffi\n
 sudo arch -x86_64 gem install ffi
-- STEP 2: Re-install dependencies
+- STEP 2: Re-install dependencies\n
 arch -x86_64 pod install
 
 ### How to change a path permanently in MacOS
