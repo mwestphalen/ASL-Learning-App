@@ -50,6 +50,8 @@ Next: Use firebase to deploy lite model or upload lite model into flutter app be
 - Upload code on github for collaborative work
 - Get it running in Android Studio
 
+What would I do different? Document installation process in all detail!!!
+
 ### Sprint III (03/01-03/29)
 
 #### Week I 
