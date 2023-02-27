@@ -27,7 +27,7 @@ The journal is our team's log of what happened. It records each team member's pr
  - Accessible System and Social Media Mobile Application for Deaf Users: ASM4Deaf: https://dl.acm.org/doi/10.1145/3524458.3547234
 
 ##### Machine Learning Model (Michael + Jari)
-1. Followed Notebook on Kaggle on how to make model for Sign Language based on the pictures
+Day 1 (Feb. 10): Followed Notebook on Kaggle on how to make model for Sign Language based on the pictures
  - Created train, validation and test set
  - Trained the model
  - Achieved 99.08% accuracy on the test set
@@ -36,21 +36,24 @@ The journal is our team's log of what happened. It records each team member's pr
 Next Steps: How can we save and export the model? How can we make it a Lite Model to use it on mobile?
 Problems: Tutorials show different formats of the dataset. Need to understand more deeply to adjust code if we run into problems
 
-2. Converted normal model to lite model using the standard converter provided by TensorFlow. Downloaded lite model.
+Day 2 (Feb. 13): Converted normal model to lite model using the standard converter provided by TensorFlow. Downloaded lite model.
 Next: Use firebase to deploy lite model or upload lite model into flutter app before production already?
 
-3. Uploaded model on firebase. It is published and ready to be used. 
+Day 3 (Feb. 15): Uploaded model on firebase. It is published and ready to be used. 
 
-4. Downloaded flutter. Added firebase to it after going through many errors. Unable to add model plugin due to unmatching dependencies. Flutter seems very complicated for installation and set up. Might have to think about switching to React Native and Expo if other team members have the same errors. Additionally, might go away from Firebase, but instead load model into app locally. Disadvantage: Increases app size; Advantage: Simpler and more tutorials out there to follow
+Day 4 (Feb. 17): Failed getting flutter to work.
 
-5. Were able to add model maker library to project. Connect flutter to firebase. And download model when running iPhone simulator through XCode.
-6. Next steps: 
+Day 5 (Feb. 20): Downloaded flutter. Added firebase to it after going through many errors. Unable to add model plugin due to unmatching dependencies. Flutter seems very complicated for installation and set up. Might have to think about switching to React Native and Expo if other team members have the same errors. Additionally, might go away from Firebase, but instead load model into app locally. Disadvantage: Increases app size; Advantage: Simpler and more tutorials out there to follow
+
+Day 6 (Feb. 22): Were able to add model maker library to project. Connect flutter to firebase. And download model when running iPhone simulator through XCode.
+Next steps: 
 - Document whole installation process so it can be reproduced.
-- Add everybody to friebase project with their gmail
+- Add everybody to firebase project with their gmail
 - Upload code on github for collaborative work
 - Get it running in Android Studio
 
-What would I do different? Document installation process in all detail!!!
+Day 7 (Feb. 27): Documented installation process. Added everybody to firebase. Uploaded code on github in new git repository due to merging conflicts with README.md... Need to do git exercise as a team to learn how to resolve conflicts. Connected everybody to firebase and downloaded same git repository on everybody's laptop. Despite following installation process, could only get it to work on Jari's laptop for now. Michael struggles with Windows. We agreed on using Visual Studio Code as an editor to stay uniform.
+What would we do different next time? Document installation process in all detail while doing it!!!
 
 ### Sprint III (03/01-03/29)
 
