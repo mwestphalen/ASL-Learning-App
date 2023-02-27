@@ -8,10 +8,13 @@
 
 sudo arch -x86_64 gem install ffi
 - STEP 2: Re-install dependencies
+
 arch -x86_64 pod install
 
 ### How to change a path permanently in MacOS
 nano ~/.zshrc
 // now you are in edit mode, do whatever you need to do
+
 // then control + x, press yes and then enter to save 
+
 // restart terminal
