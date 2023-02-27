@@ -43,6 +43,13 @@ Next: Use firebase to deploy lite model or upload lite model into flutter app be
 
 4. Downloaded flutter. Added firebase to it after going through many errors. Unable to add model plugin due to unmatching dependencies. Flutter seems very complicated for installation and set up. Might have to think about switching to React Native and Expo if other team members have the same errors. Additionally, might go away from Firebase, but instead load model into app locally. Disadvantage: Increases app size; Advantage: Simpler and more tutorials out there to follow
 
+5. Were able to add model maker library to project. Connect flutter to firebase. And download model when running iPhone simulator through XCode.
+6. Next steps: 
+- Document whole installation process so it can be reproduced.
+- Add everybody to friebase project with their gmail
+- Upload code on github for collaborative work
+- Get it running in Android Studio
+
 ### Sprint III (03/01-03/29)
 
 #### Week I 
