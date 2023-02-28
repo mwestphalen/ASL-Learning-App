@@ -10,11 +10,13 @@ The journal is our team's log of what happened. It records each team member's pr
 
 ##### User Interface (Matt)
 
-1. Researched user flow/UI/UX of similar applications to get an idea of what works and what doesn't. I also started on the activity/user flow diagram for the mobile application. No issues/problems encountered. - 02/13
+Day 1 (Feb. 10): Researched user flow/UI/UX of similar applications to get an idea of what works and what doesn't. I also started on the activity/user flow diagram for the mobile application. No issues/problems encountered.
 
-2. Finished the activity/user flow diagram. I also started on the UX/UI prototype using Adobe XD, no issues there yet and should be done in the next few days. - 02/18
+Day 2 (Feb. 15): Finished the activity/user flow diagram. Used Lucidchart web app for building the diagrams.
 
-3. Finished the UI/UX prototype using Adobe XD. We now have a visual idea of what the app could look like, which could better out productivity and workload. - 02/20
+Day 3 (Feb. 18): I started on the UX/UI prototype using Adobe XD, no issues there yet and should be done in the next few days.
+
+Day 4 (Feb. 20): Finished the UI/UX prototype using Adobe XD. We now have a visual idea of what the app could look like, which could improve our productivity and workload. 
 
 ##### Mobile App Flutter (Aakriti)
 1. Downloaded and created hello world app on Android Studio. Working on it now for VSC. 02/15
